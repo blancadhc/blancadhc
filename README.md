@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blancadhc
 - 👀 I’m interested in json, xml, sql, javascript, vb ++
-- 🌱 I’m currently learning json
+- 🌱 I’m currently learning json, ruby, php
 - 💞️ I’m am available to further collaboration or refactoring
 
 <!---
